@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Student Database
+While doing work with a Barber School, I noticed that they were using outdated software and pen and paper to house their student population information. I saw that they could benefit from a a simple web application that would make it much more streamlined, convenient and efficient to create, store and update their student records. 
 
-You can use the [editor on GitHub](https://github.com/itstaraking/StudentDatabase/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Code Preview 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![StudentDatabaseCode](https://itstaraking.github.io/StudentDatabase/SQLScreenShot.png)
+![StudentDatabaseCode](https://itstaraking.github.io/StudentDatabase/StudentClass.png)
+![StudentDatabaseCode](https://itstaraking.github.io/StudentDatabase/StudentClassASPX.png)
 
-### Markdown
+### Here is the output...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itstaraking/StudentDatabase/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![EasyBasketballOutput](https://itstaraking.github.io/EasyBasketball/easybasketball.gif)
