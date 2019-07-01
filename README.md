@@ -1,5 +1,5 @@
 # Student Database
-While doing work with a Barber School, I noticed that they were using outdated software and pen and paper to house their student population information. I saw that they could benefit from a a simple web application that would make it much more streamlined, convenient and efficient to create, store and update their student records. 
+While doing work with a Barber School, I noticed that they were using an outdated method (essentially, Excel, pen and paper) to house and manage their student population information. I saw that they could benefit from a a simple CRUD application that would make managing their data much more efficient. I created a web application created in Visual Studio 2017, coded in C# and connected a databse. Below is a sample of the code and functionality.  
 
 ### Code Preview 
 
