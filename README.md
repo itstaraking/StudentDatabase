@@ -9,4 +9,4 @@ While doing work with a Barber School, I noticed that they were using outdated s
 
 ### Here is the output...
 
-![EasyBasketballOutput](https://itstaraking.github.io/EasyBasketball/easybasketball.gif)
+![StudentDatabaseOutput](https://itstaraking.github.io/StudentDatabase/ezgif-5-b87624b24561.gif)
